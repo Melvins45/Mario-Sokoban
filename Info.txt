@@ -1,0 +1,15 @@
+Bienvenue à Mario Sokoban par les entreprises Melvins Corp ,Extremis et Index!!!!!
+Vous pouvez éditer vos propres niveaux en appuyant sur 2 et la-bas:
+-1 met un mur
+-2 met une caisse
+-3 met un objectif mignon
+-4 met une goule,non je dis quoi,un mario
+-5 met une caisse ok
+
+Vous pouvez jouer en appuyant sur 1 .
+Et si vous etes un connaisseur ,vous savez jouer au sokoban.
+
+Bugs et Amélioration:
+-On peut enlever un objectif en placant mario dessus
+-On peut malheureusement mettre plus d'un mario sur la carte dans l'éditeur.
+-Il n'y a qu'un seul niveau.Faudrait créer plusieurs paliers et aller au prochains si on win one.
